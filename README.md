@@ -1,4 +1,4 @@
-# Improving-Text-Analytics-Data-Quality-with-Advanced-NLP-
+# Enhancing-Text-Analytics-Data-Quality-using-NLP-
 The quality of text data significantly impacts the accuracy and reliability of analytics and 
 machine learning models. Poor data quality, stemming from noise, ambiguity, inconsistency, 
 and lack of context, poses challenges for deriving meaningful insights. This paper explores the 
